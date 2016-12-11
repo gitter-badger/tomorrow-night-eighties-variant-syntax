@@ -1,16 +1,25 @@
 # Tomorrow Night Eighties Atom Syntax Theme
 
-[![APM][apm-img]][apm-url]
-[![Chat][chat-img]][chat-url]
-[![License][license-img]][license-url]
+Atom syntax theme using the ever popular Tomorrow Night Eighties colors with a Dark and Light theme variant.
 
-Atom syntax theme using the ever popular Tomorrow Night Eighties colors:
+## Feature
+- HTML tag brackets are same color as HTML tag name.
+- Angular 2 HTML syntax highlighting.
 
-![](https://github.com/ChrisKempson/Tomorrow-Theme/raw/master/Images/Tomorrow-Night-Eighties-Palette.png)
+## Variants overview
 
-[apm-img]: https://img.shields.io/apm/v/tomorrow-night-eighties-syntax.svg?style=flat-square
-[apm-url]: https://atom.io/themes/tomorrow-night-eighties-syntax
-[chat-img]: https://img.shields.io/gitter/room/tomorrow-night-eighties-syntax-theme/Lobby.svg?style=flat-square
-[chat-url]: https://gitter.im/tomorrow-night-eighties-syntax-theme/Lobby
-[license-img]: https://img.shields.io/apm/l/tomorrow-night-eighties-syntax.svg?style=flat-square
-[license-url]: https://github.com/rockymadden/tomorrow-night-eighties-syntax-theme/blob/master/LICENSE
+### Dark (default)
+<img src="https://raw.githubusercontent.com/dracine-hub/tomorrow-night-eighties-variant-syntax/master/tomorrow-eighties-dark.png" width="400">
+<!-- 
+![](https://raw.githubusercontent.com/dracine-hub/tomorrow-night-eighties-variant-syntax/master/tomorrow-eighties-dark.png)
+-->
+
+### Light
+<img src="https://raw.githubusercontent.com/dracine-hub/tomorrow-night-eighties-variant-syntax/master/tomorrow-eighties-light.png" width="400">
+<!--
+![](https://raw.githubusercontent.com/dracine-hub/tomorrow-night-eighties-variant-syntax/master/tomorrow-eighties-light.png) 
+-->
+
+## Dependencies
+
+- The [language-html-ng2](https://github.com/dracine-hub/language-html-ng2) package for Atom that support Angular 2 syntax highlighting in HTML files. (forked from Github's [language-html](https://github.com/atom/language-html) package.

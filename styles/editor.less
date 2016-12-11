@@ -63,3 +63,24 @@ atom-text-editor {
     padding-left: 10px;
   }
 }
+
+atom-text-editor, :host {
+  
+  .gutter {
+    color: @syntax-gutter-text-color;
+    background-color: @syntax-background-color;
+    border-right: 1px solid @syntax-gutter-background-color;
+
+    .line-number {
+      &.cursor-line {
+        background-color: @syntax-gutter-background-color;
+        color: @syntax-gutter-text-color-selected;
+      }
+
+      &.cursor-line-no-selection {
+        color: @syntax-gutter-text-color-selected;
+      }
+    }
+  }
+
+}

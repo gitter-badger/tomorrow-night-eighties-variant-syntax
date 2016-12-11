@@ -1,29 +1,33 @@
 {
-  "name": "tomorrow-night-eighties-syntax",
-  "version": "1.0.2",
-  "description": "Tomorrow Night Eighties syntax theme for Atom",
-  "license": "MIT",
+  "name": "tomorow-night-eigthies-variant",
   "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Atom syntax theme using the ever popular Tomorrow Night Eighties colors with a Dark and Light theme variant.",
+  "homepage": "https://atom.io/packages/tomorow-night-eigthies-variant-syntax",
+  "readme": "# Tomorrow Night Eighties (light) Atom Syntax Theme\n\nAtom syntax theme using the ever popular Tomorrow Night Eighties colors:\n\n![](https://github.com/ChrisKempson/Tomorrow-Theme/raw/master/Images/Tomorrow-Night-Eighties-Palette.png)\n\n## What's different in this version?\n\n- HTML tag brackets same color as HTML tag name.\n\n- Angular 2 HTML syntax support with [this HTML language package](https://github.com/dracine-hub/language-html-ng2). (forked from Github's [language-html](https://github.com/atom/language-html) package.\n\n![](https://raw.githubusercontent.com/dracine-hub/my-eighties-dark-theme-syntax/master/capture.png)\n\n> Check out the [Tomorrow Night Eighties (light) Atom Syntax Theme](https://github.com/dracine-hub/my-eighties-light-theme-syntax)\n\nCheers!\n\n***\n\nSyntax theme project forked from [rockymadden](https://atom.io/themes/tomorrow-night-eighties-syntax)\n",
+  "readmeFilename": "readme.md",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dracine-hub/tomorrow-night-eighties-variant-syntax.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dracine-hub/tomorrow-night-eighties-variant-syntax/issues"
+  },
+  "dependencies": {
+    "language-html-ng2": "*"
+  },
+  "engines": {
+    "atom": ">0.59.0"
+  },
   "keywords": [
     "tomorrow",
     "night",
+    "day",
     "eighties",
     "syntax",
+    "dark",
+    "light",
     "theme"
-  ],
-  "contributors": [
-    "Rocky Madden",
-    "Ryan Sobol"
-  ],
-  "homepage": "https://github.com/rockymadden/tomorrow-night-eighties-syntax-theme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/rockymadden/tomorrow-night-eighties-syntax-theme"
-  },
-  "bugs": {
-    "url": "https://github.com/rockymadden/tomorrow-night-eighties-syntax-theme/issues"
-  },
-  "engines": {
-    "atom": ">=1.13"
-  }
+  ]
 }

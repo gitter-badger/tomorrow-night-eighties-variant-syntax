@@ -1,0 +1,38 @@
+.syntax--html {
+  .syntax--meta.syntax--tag.syntax--sgml.syntax--doctype {
+    color: @purple;
+  }
+
+  .syntax--punctuation.syntax--definition.syntax--string {
+    color: @green;
+    background-color: fadeout(@green, 93%);
+  }
+}
+
+.html {
+  
+  .entity.other.attribute-name {
+    color: @red;
+  }
+  
+  .punctuation.definition.tag {
+    color: @red;
+  }
+  
+  .meta.tag.block.any {
+    color: @red;
+  }
+  
+  .meta.tag.inline.any {
+    color: @red;
+  }
+  
+  .meta.tag.any {
+    color: @red;
+  }
+  
+  .invalid.illegal.bad-ampersand.html {
+    color: @foreground !important;
+  }
+  
+}
