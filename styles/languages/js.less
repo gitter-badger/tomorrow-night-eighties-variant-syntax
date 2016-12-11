@@ -1,99 +1,99 @@
-.syntax--js {
-  &.syntax--constant.syntax--other.syntax--property {
+.js {
+  &.constant.other.property {
     color: @foreground;
   }
 
-  &.syntax--keyword.syntax--operator {
+  &.keyword.operator {
     color: @aqua;
   }
 
-  &.syntax--variable {
+  &.variable {
     color: @foreground;
 
-    &.syntax--class {
+    &.class {
       color: @red;
     }
 
-    &.syntax--language {
+    &.language {
       color: @red;
     }
   }
 
-  &.syntax--string.syntax--unquoted {
+  &.string.unquoted {
     color: @foreground;
   }
 
-  &.syntax--support {
-    &.syntax--constant {
+  &.support {
+    &.constant {
       color: @foreground;
     }
 
-    &.syntax--object {
+    &.object {
       color: @yellow;
     }
 
-    &.syntax--variable {
+    &.variable {
       color: @yellow;
     }
   }
 
-  &.syntax--meta.syntax--brace.syntax--square {
+  &.meta.brace.square {
     color: @blue;
     background-color: fadeout(@blue, 93%);
   }
 
-  &.syntax--meta.syntax--brace.syntax--curly {
+  &.meta.brace.curly {
     color: @red;
     background-color: fadeout(@red, 93%);
   }
 
-  &.syntax--meta.syntax--brace.syntax--round {
+  &.meta.brace.round {
     color: @aqua;
     background-color: fadeout(@aqua, 93%);
   }
 
-  &.syntax--meta.syntax--delimiter.syntax--period,
-  &.syntax--meta.syntax--delimiter.syntax--comma {
+  &.meta.delimiter.period,
+  &.meta.delimiter.comma {
     color: @aqua;
   }
 
-  &.syntax--meta.syntax--group.syntax--braces.syntax--round.syntax--function.syntax--arguments {
+  &.meta.group.braces.round.function.arguments {
     color: @aqua;
   }
 
-  &.syntax--punctuation {
-    &.syntax--separator.syntax--key-value {
+  &.punctuation {
+    &.separator.key-value {
       color: @aqua;
     }
 
-    &.syntax--definition {
-      &.syntax--string {
+    &.definition {
+      &.string {
         color: @green;
         background-color: fadeout(@green, 93%);
       }
 
-      &.syntax--parameters {
+      &.parameters {
         color: @aqua;
         background-color: fadeout(@aqua, 93%);
       }
 
-      &.syntax--arguments {
+      &.arguments {
         color: @aqua;
         background-color: fadeout(@aqua, 93%);
       }
 
-      &.syntax--bracket.syntax--curly {
+      &.bracket.curly {
         color: @red;
         background-color: fadeout(@red, 93%);
       }
     }
 
-    &.syntax--section.syntax--class {
+    &.section.class {
       color: @red;
       background-color: fadeout(@red, 93%);
     }
 
-    &.syntax--terminator.syntax--statement {
+    &.terminator.statement {
       color: @yellow;
     }
   }

@@ -7,7 +7,7 @@
   "readme": "# Tomorrow Night Eighties Atom Syntax Theme\n\nAtom syntax theme using the ever popular Tomorrow Night Eighties colors with a Dark and Light theme variant.\n\n## Feature\n\n- HTML tag brackets are same color as HTML tag name.\n\n- Angular 2 HTML syntax highlighting.\n\n## Variants overview\n\n### Dark (default)\n\n<img src=\"https://raw.githubusercontent.com/dracine-hub/tomorrow-night-eighties-variant-syntax/master/tomorrow-eigthies-dark.png\" width=\"600\">\n\n### Light\n\n<img src=\"https://raw.githubusercontent.com/dracine-hub/tomorrow-night-eighties-variant-syntax/master/tomorrow-eighties-light.png\" width=\"600\">\n\n## Dependencies\n\n- The [language-html-ng2](https://github.com/dracine-hub/language-html-ng2) package for Atom that support Angular 2 syntax highlighting in HTML files. (forked from Github's [language-html](https://github.com/atom/language-html) package.\n\n",
   "readmeFilename": "readme.md",
   "license": "MIT",
-  "main": "./lib/eighties",
+  "main": "./lib/eighties-syntax",
   "repository": {
     "type": "git",
     "url": "https://github.com/dracine-hub/tomorrow-night-eighties-variant-syntax.git"
