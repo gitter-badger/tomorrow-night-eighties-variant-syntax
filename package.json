@@ -14,9 +14,6 @@
   "bugs": {
     "url": "https://github.com/dracine-hub/tomorrow-night-eighties-variant-syntax/issues"
   },
-  "dependencies": {
-    "language-html-ng2": "*"
-  },
   "engines": {
     "atom": ">0.59.0"
   },
