@@ -9,13 +9,13 @@ Atom syntax theme using the ever popular Tomorrow Night Eighties colors with a D
 ## Variants overview
 
 ### Dark (default)
-<img src="https://raw.githubusercontent.com/dracine-hub/tomorrow-night-eighties-variant-syntax/master/tomorrow-eighties-dark.png" width="400">
+<img src="https://raw.githubusercontent.com/dracine-hub/tomorrow-night-eighties-variant-syntax/master/tomorrow-eigthies-dark.png" width="600">
 <!-- 
 ![](https://raw.githubusercontent.com/dracine-hub/tomorrow-night-eighties-variant-syntax/master/tomorrow-eighties-dark.png)
 -->
 
 ### Light
-<img src="https://raw.githubusercontent.com/dracine-hub/tomorrow-night-eighties-variant-syntax/master/tomorrow-eighties-light.png" width="400">
+<img src="https://raw.githubusercontent.com/dracine-hub/tomorrow-night-eighties-variant-syntax/master/tomorrow-eighties-light.png" width="600">
 <!--
 ![](https://raw.githubusercontent.com/dracine-hub/tomorrow-night-eighties-variant-syntax/master/tomorrow-eighties-light.png) 
 -->
