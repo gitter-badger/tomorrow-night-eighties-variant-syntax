@@ -1,7 +1,7 @@
 {
   "name": "tomorrow-night-eigthies-variant-syntax",
   "theme": "syntax",
-  "version": "3.1.2",
+  "version": "3.1.3",
   "description": "Atom syntax theme using the ever popular Tomorrow Night Eighties colors with a Dark and Light theme variant.",
   "homepage": "https://atom.io/packages/tomorrow-night-eigthies-variant-syntax",
   "readme": "# Tomorrow Night Eighties Syntax Theme\n\nAtom syntax theme using the ever popular Tomorrow Night Eighties colors with a Dark and Light theme variant.\n\n## Installation\n\nFire up a console and type:\n\n\n        apm install tomorrow-night-eigthies-variant-syntax\n\n\nOr, inside Atom's settings select Install and then search for this package.\n\n## Usage\n\nSelect the *Dark* or *Light* theme variant in the package settings. The theme will be applied on window refresh or on a new Atom editor instance.\n\n## Feature\n\n- HTML tag brackets are same color as HTML tag name.\n\n- Angular 2 HTML syntax highlighting.\n\n## Theme Variants\n\n### Dark (default)\n\n![](https://raw.githubusercontent.com/dracine-hub/tomorrow-night-eighties-variant-syntax/master/tomorrow-eigthies-dark.png)\n\n### Light\n\n![](https://raw.githubusercontent.com/dracine-hub/tomorrow-night-eighties-variant-syntax/master/tomorrow-eighties-light.png)\n\n## Dependencies\n\n- For Angular 2 syntax highlighting in HTML files you need the [language-html-ng2](https://atom.io/packages/language-html-ng2) package for Atom. (forked from Github's [language-html](https://atom.io/packages/language-html) package.\n\n",
