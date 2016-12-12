@@ -1,5 +1,9 @@
 # Tomorrow Night Eighties Syntax Theme
 
+[![apm](https://img.shields.io/apm/v/tomorrow-night-eigthies-variant-syntax.svg?style=flat-square)](https://atom.io/packages/tomorrow-night-eigthies-variant-syntax)
+[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](https://github.com/dracine-hub/tomorrow-night-eighties-variant-syntax/blob/master/LICENSE)
+ 
+
 Atom syntax theme using the ever popular Tomorrow Night Eighties colors with a Dark and Light theme variant.
 
 ## Installation
