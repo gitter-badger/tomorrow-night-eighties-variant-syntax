@@ -1,5 +1,7 @@
 # Tomorrow Night Eighties Syntax Theme
 
+[![Join the chat at https://gitter.im/tomorrow-night-eighties-variant/Lobby](https://badges.gitter.im/tomorrow-night-eighties-variant/Lobby.svg)](https://gitter.im/tomorrow-night-eighties-variant/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![apm](https://img.shields.io/apm/v/tomorrow-night-eigthies-variant-syntax.svg?style=flat-square)](https://atom.io/packages/tomorrow-night-eigthies-variant-syntax)
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](https://github.com/dracine-hub/tomorrow-night-eighties-variant-syntax/blob/master/LICENSE)
  
