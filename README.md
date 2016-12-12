@@ -1,4 +1,4 @@
-# Tomorrow Night Eighties Atom Syntax Theme
+# Tomorrow Night Eighties Syntax Theme
 
 Atom syntax theme using the ever popular Tomorrow Night Eighties colors with a Dark and Light theme variant.
 
@@ -16,8 +16,8 @@ Atom syntax theme using the ever popular Tomorrow Night Eighties colors with a D
 
 ## Dependencies
 
-- The [language-html-ng2](https://github.com/dracine-hub/language-html-ng2) package for Atom that support Angular 2 syntax highlighting in HTML files. (forked from Github's [language-html](https://github.com/atom/language-html) package.
+- For Angular 2 syntax highlighting in HTML files you need the [language-html-ng2](https://github.com/dracine-hub/language-html-ng2) package for Atom. (forked from Github's [language-html](https://github.com/atom/language-html) package.
 
 ## Usage
 
-Select the Dark or Light theme variant in the package settings. The theme will be applied on application refresh or on a new window.
+Select the Dark or Light theme variant in the package settings. The theme will be applied on window refresh or a new Atom editor instance.
