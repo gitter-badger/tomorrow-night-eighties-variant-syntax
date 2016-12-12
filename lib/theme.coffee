@@ -1,8 +1,8 @@
 module.exports =
   config:
     backgroundVariant:
-      title: 'Theme Variant'
-      description: 'Chose between Dark (default) and Light variants'
+      title: 'Background variant'
+      description: 'Chose between Dark (default) and Light'
       type: 'string'
       default: 'Dark'
       enum: [
